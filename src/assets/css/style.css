@@ -94,7 +94,8 @@ header {
     color: #817462;
     font-size: 18px;
     background-color: #CDC8C1;
-    width: 14.86px
+    width: 14.86px;
+    cursor: pointer;
 }
 
 .aumentar-level {
